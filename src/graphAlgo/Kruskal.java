@@ -51,6 +51,7 @@ public class Kruskal
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		System.out.println("HI SATISH");
 		int V = sc.nextInt();
 		int E = sc.nextInt();
 		edge input[]=new edge[E];
